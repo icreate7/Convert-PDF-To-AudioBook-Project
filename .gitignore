@@ -1,0 +1,5 @@
+# Ignore sensitive files
+credentials.json
+*.mp3
+__pycache__/
+*.pyc
